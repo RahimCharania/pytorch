@@ -40,6 +40,7 @@ From: marcchpc/pytorch_cuda9
   
   # try a pip install
   /opt/conda/bin/pip install torchtext
+  /opt/conda/bin/pip install pretrainedmodels
 
 %runscript
   # executes with the singularity run command
